@@ -2,4 +2,4 @@
 
 This theme is a fork of the sepia-syntax theme with a few minor changes.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot](https://github.com/Jadzia626/moniqueSyntax/blob/master/screenshot.png?raw=true)
