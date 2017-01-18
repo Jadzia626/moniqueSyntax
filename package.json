@@ -5,9 +5,12 @@
   "description": "Fork of sepia-syntax with a few minor changes.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "light",
+    "medium",
+    "sand"
   ],
-  "repository": "https://github.com/atom/monique-syntax",
+  "repository": "https://github.com/Jadzia626/moniqueSyntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
