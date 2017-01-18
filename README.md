@@ -1,4 +1,4 @@
-# monique-syntax theme
+# moniqueSyntax Theme for Atom.io
 
 This theme is a fork of the sepia-syntax theme with a few minor changes.
 
