@@ -1,3 +1,6 @@
+## 0.3.1
+* Updated style  sheet for Atom v1.13.0
+
 ## 0.3.0
 * Changed color of line wrapping guide to a lighter colour
 * Changed name.tag from underline to bold
